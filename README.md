@@ -1,5 +1,5 @@
 
-# 🌍 Global Power Generation Analysis & Forecasting
+#  Global Power Generation Analysis & Forecasting
 
 This project analyzes the Global Power Plant Database to:
 - Visualize power generation trends by country and fuel type
@@ -8,7 +8,7 @@ This project analyzes the Global Power Plant Database to:
 
 ---
 
-## 📊 Features
+##  Features
 
 - Top 10 countries by estimated power generation (bar chart)
 - Global generation by fuel type (bar chart)
@@ -18,7 +18,7 @@ This project analyzes the Global Power Plant Database to:
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python 3.11
 - pandas, matplotlib
@@ -27,7 +27,7 @@ This project analyzes the Global Power Plant Database to:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone this repo or download the files  
 2. Install dependencies:
@@ -52,29 +52,29 @@ python power_analysis.py
 
 ---
 
-## 🌐 Data Source
+##  Data Source
 
 - [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase)
 
 ---
 
-## 📸 Example Outputs
+##  Example Outputs
 
-### 🔹 Top Countries
+###  Top Countries
 ![Top Countries](https://raw.githubusercontent.com/saifahmad6462/power-generation-forecast/main/top_countries.png)
 
-### 🔹 Fuel Types
+###  Fuel Types
 ![Fuel Types](https://raw.githubusercontent.com/saifahmad6462/power-generation-forecast/main/fuel_types.png)
 
-### 🔹 Country Trend
+###  Country Trend
 ![Country Trend](https://raw.githubusercontent.com/saifahmad6462/power-generation-forecast/main/country_trend.png)
 
-### 🔹 Forecast
+###  Forecast
 ![Forecast](https://raw.githubusercontent.com/saifahmad6462/power-generation-forecast/main/forecast.png)
 
 
 ---
 
-## ✍️ Author
+## Author
 
 Built by [Saif Ahmad](https://github.com/saifahmad6462) for personal learning and energy data exploration.
